@@ -1,0 +1,94 @@
+Country,avg_medevac_score
+Afghanistan,9.0
+Algeria,2.6666666666666665
+"Algeria, Morocco, Spain",4.0
+"Algeria, Tunisia, Libya, Italy",8.0
+Angola,2.0
+Armenia,1.0
+"Armenia, Azerbaijan",2.0
+Azerbaijan,2.0
+Bangladesh,3.0
+"Bangladesh, Myanmar",10.0
+Brazil,5.0
+Burkina Faso,10.0
+Burundi,3.0
+CAR,9.0
+Cameroon,7.5
+Chad,7.8
+Chile,5.0
+Colombia,10.0
+Congo,2.0
+Costa Rica,0.0
+DPRK,5.0
+DRC,10.0
+Djibouti,0.0
+Dominican Republic,0.0
+Ecuador,4.0
+Egypt,3.0
+El Salvador,5.0
+Eritrea,5.0
+Eswatini,0.0
+Ethiopia,10.25
+"Ethiopia, Somalia, Kenya",11.0
+Greece,0.0
+Guatemala,4.0
+Haiti,8.0
+Honduras,6.0
+Hungary,0.0
+India,3.0
+"India, Pakistan",5.0
+Indonesia,7.0
+Iran,5.0
+Iraq,7.0
+Italy,2.0
+Jordan,2.0
+Kenya,3.6666666666666665
+Lebanon,5.5
+Lesotho,0.0
+"Lesotho, Madagascar, Malawi, Namibia, Eswatini, Zambia, Zimbabwe, Tanzania",5.0
+Libya,7.0
+Madagascar,3.6666666666666665
+Malawi,3.0
+Malaysia,1.0
+Mali,8.0
+Mauritania,2.0
+Mexico,5.0
+Moldova,1.0
+Morocco,1.0
+Mozambique,5.666666666666667
+Myanmar,10.0
+Namibia,1.0
+Nicaragua,2.0
+Niger,8.5
+Nigeria,7.2
+"Nigeria, Niger, Chad, Cameroon",12.0
+Pakistan,4.0
+Palestine,9.0
+Panama,0.0
+Peru,1.0
+Philippines,2.0
+Poland,0.0
+Romania,0.0
+Rwanda,2.0
+Senegal,2.0
+Slovakia,0.0
+Somalia,10.0
+South Sudan,11.0
+Spain,1.0
+Sudan,8.0
+Syria,11.0
+"Syria, Turkey, Iraq, Egypt, Jordan, Lebanon",12.0
+Tanzania,0.0
+Thailand,5.666666666666667
+Tonga,3.0
+Trinidad and Tobago,1.0
+Tunisia,1.0
+Turkey,4.0
+"Turkey, Greece",3.0
+Uganda,3.0
+Ukraine,12.0
+Venezuela,8.0
+"Venezuela, Brazil, Colombia, Ecuador, Peru, Trinidad and Tobago, Chile, Dominican Republic, Panama",10.0
+Yemen,11.0
+Zambia,3.0
+Zimbabwe,4.0
